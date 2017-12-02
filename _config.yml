@@ -1,1 +1,2 @@
-theme: jekyll-theme-hacker
+#heme: jekyll-theme-hacker
+remote_theme:nielsenramon/chalk
