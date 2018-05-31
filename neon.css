@@ -6175,5 +6175,5 @@ mark.secondary {
     opacity: 0;
     left: 5%; }
 .hide-elt{
-  display: none;
+  display: none!important;
 }
